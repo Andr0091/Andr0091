@@ -43,12 +43,12 @@ Interested in **Backend development, AI engineering, and cybersecurity**.
 
 Hospital management system built with Java.
 
-[View Repository](https://github.com/SEU_USUARIO/NOME_REPOSITORIO_HMS)
+[View Repository](https://github.com/Andr0091/HmS)
 
 ### Ampara — Accessibility & Assistance
 
 Android application focused on accessibility and assistance.
 
-[View Repository](https://github.com/SEU_USUARIO/NOME_REPOSITORIO_AMPARA)
+[View Repository](https://github.com/Andrr0091/)
 
 </div>
